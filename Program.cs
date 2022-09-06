@@ -38,7 +38,7 @@ namespace TestSystemFileWatcher
         {
             // specify what is done when a file is changed.
             Console.WriteLine();
-            Console.WriteLine("====== Ocorreu alguma alteração de arquivo ======");
+            Console.WriteLine("====== Some file change has occurred ======");
             Console.WriteLine();
             Console.WriteLine(e.ChangeType);
             Console.WriteLine(e.FullPath);
@@ -50,7 +50,7 @@ namespace TestSystemFileWatcher
         {
             //specify what is done when a file is renamed  
             Console.WriteLine();
-            Console.WriteLine("====== Nome do arquivo alterado ======");
+            Console.WriteLine("====== Changed file name ======");
             Console.WriteLine();
             Console.WriteLine(e.ChangeType);
             Console.WriteLine($"Nome anterior => {e.OldFullPath}");
