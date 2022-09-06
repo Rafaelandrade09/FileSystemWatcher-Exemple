@@ -1,0 +1,16 @@
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\bin\Debug\net5.0\TestSystemFileWatcher.exe
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\bin\Debug\net5.0\TestSystemFileWatcher.deps.json
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\bin\Debug\net5.0\TestSystemFileWatcher.runtimeconfig.json
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\bin\Debug\net5.0\TestSystemFileWatcher.runtimeconfig.dev.json
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\bin\Debug\net5.0\TestSystemFileWatcher.dll
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\bin\Debug\net5.0\TestSystemFileWatcher.pdb
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\TestSystemFileWatcher.csproj.AssemblyReference.cache
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\TestSystemFileWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\TestSystemFileWatcher.AssemblyInfoInputs.cache
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\TestSystemFileWatcher.AssemblyInfo.cs
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\TestSystemFileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\TestSystemFileWatcher.dll
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\refint\TestSystemFileWatcher.dll
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\TestSystemFileWatcher.pdb
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\TestSystemFileWatcher.genruntimeconfig.cache
+C:\Users\rafael.andrade\Documents\Rafael\TestSystemFileWatcher\TestSystemFileWatcher\obj\Debug\net5.0\ref\TestSystemFileWatcher.dll
